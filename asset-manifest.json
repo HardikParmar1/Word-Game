@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Word-Game/static/css/main.133aae73.css",
+    "main.js": "/Word-Game/static/js/main.033bbe41.js",
+    "static/media/incorrect-word.mp3": "/Word-Game/static/media/incorrect-word.c225090169354b08b471.mp3",
+    "static/media/correct-word.mp3": "/Word-Game/static/media/correct-word.2944938830ac5d97fe17.mp3",
+    "index.html": "/Word-Game/index.html",
+    "main.133aae73.css.map": "/Word-Game/static/css/main.133aae73.css.map",
+    "main.033bbe41.js.map": "/Word-Game/static/js/main.033bbe41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.133aae73.css",
+    "static/js/main.033bbe41.js"
+  ]
+}
