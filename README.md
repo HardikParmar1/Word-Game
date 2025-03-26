@@ -30,7 +30,7 @@ This Word Game challenges players to find hidden words in a grid of letters. It 
 To run the game locally, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/word-game.git
+git clone https://github.com/hardikparmar1/word-game.git
 cd word-game
 npm install
 npm start
